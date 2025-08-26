@@ -44,6 +44,3 @@ Além disso, o sistema foi projetado com foco em **boas práticas de código**, 
 
 Este projeto representa um passo importante na construção do meu portfólio como desenvolvedor Python, demonstrando minha capacidade de transformar requisitos em soluções práticas e funcionais.
 
----
-
-Se quiser, posso adaptar esse texto para colocar direto no seu GitHub ou transformar em uma versão mais informal para redes sociais. Quer que eu faça isso?
